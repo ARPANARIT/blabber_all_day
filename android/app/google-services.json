@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1061142484218",
+    "project_id": "blabberallday-87bff",
+    "storage_bucket": "blabberallday-87bff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061142484218:android:035ac60e419836f57a6543",
+        "android_client_info": {
+          "package_name": "com.arpana.uwu.blabber_all_day"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061142484218-n8c1bmrrr8dm6ekfqgs5sd0kuop7vmkl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByrbc51f6YojlZsu-kSKKNW4qBrqNbR6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061142484218-n8c1bmrrr8dm6ekfqgs5sd0kuop7vmkl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
